@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { Line } from "react-chartjs-2";
 import {
   Chart as ChartJS,
@@ -22,6 +22,8 @@ ChartJS.register(
 );
 
 const Chart = ({ arr = [], currency, days }) => {
+
+  const [ex, setEx] = useState("BC");
   const prices = [];
   const date = [];
 
