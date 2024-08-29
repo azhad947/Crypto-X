@@ -23,7 +23,7 @@ const Home = () => {
           w={"full"}
           h={"full"}
           objectFit={"contain"}
-          src="https://cdn.discordapp.com/attachments/1021189063262351390/1065626302457065472/newbits_robot_torso_with_humanoid_head_and_face_facing_forward__e71460da-1b20-4a00-99f2-16b3fee6575a.png"
+          src="https://media.istockphoto.com/id/1440241076/photo/bitcoin-and-ethereum-cryptocurrency-with-candle-stick-graph-chart-laptop-keyboard-and-digital.jpg?s=2048x2048&w=is&k=20&c=slzaJ6INd84b3T1xMhJrRefNdyO_av7Rd-PGiTlszPQ="
           // filter={"grayscale(1)"}
         />
       </motion.div>
